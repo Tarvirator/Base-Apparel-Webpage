@@ -1,0 +1,106 @@
+body{
+text-align: center;
+width: 1460px;
+margin: 0;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.bg{
+  position: absolute;
+  left: 0;
+   top: 0;
+   z-index: -1;
+
+}
+
+.pic1{
+  margin: 0;
+  padding: 0;
+
+
+}
+.pic2{
+position: absolute;
+top: 0;
+right: auto;
+}
+.content{
+  text-align: left;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.we{
+  color: #ce9797;
+  font-weight: 300;
+  font-size: 300%;
+  letter-spacing: 15px;
+  margin-bottom: 20px;
+}
+.coming{
+  font-weight: 600;
+  font-size: 300%;
+  letter-spacing: 15px;
+  line-height: 140%;
+  margin-top: 1%;
+  color:#555555;
+}
+
+.details{
+  color: #ce9797;
+  font-weight: 400;
+  font-size: 110%;
+  line-height: 170%;
+
+}
+.texts{
+  width: 32%;
+}
+.logo{
+  margin-bottom: 8%;
+}
+.mail{
+  border-color:#ce9797;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 2rem;
+
+}
+.email{
+  padding-left: 10%;
+  color:#ce9797 ;
+  display: inline-block;
+}
+
+.mail_main{
+  width: 35%;
+}
+
+
+
+.button{
+  border-radius: 2rem;
+  background: linear-gradient(140deg, rgba(248,191,191,1) 25%, rgba(238,140,140,1) 100%);
+  text-align: center;
+  width: 20%;
+  margin-left: auto;
+  margin-right: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+}
+.arrow{
+text-align: center;
+padding: 15%;
+}
+
+.mail_button{
+  width: 35%;
+  text-align: right;
+  z-index: 2;
+  position: relative;
+  bottom: 3.22rem;
+
+
+
+}
